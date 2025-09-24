@@ -1,4 +1,4 @@
-#  Final Report: Food Delivery Time Prediction using CNN & Logistic Regression
+#  Final Report: CNN, Apriori, Evaluation & Validation [FDTP]
 
 ## Summary
 

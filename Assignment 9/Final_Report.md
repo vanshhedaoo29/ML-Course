@@ -1,4 +1,4 @@
-# Deforestation Analysis Report
+# Final Report: Deforestation Issue Analysis Using Support Vector Machine (SVM)
 
 ## Summary
 

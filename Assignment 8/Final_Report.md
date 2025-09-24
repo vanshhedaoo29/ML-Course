@@ -1,4 +1,4 @@
-# Final Report: Global Pollution & Energy Recovery Analysis
+# Final Report: CNN, Apriori, Evaluation & Validation [GSA&ER]
 
 ## Summary
 

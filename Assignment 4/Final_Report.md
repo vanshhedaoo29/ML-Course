@@ -1,4 +1,4 @@
-# Final Report: Global Pollution Analysis
+# Final Report: Naive Bayes, (KNN), Decision Tree [GSA&ER]
 
 ## Summary
 
